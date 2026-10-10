@@ -11,7 +11,7 @@ string f(string str,bool flag = false) {
     } else {
       break;
     }
-  }
+  } 
   return ans;
 }
 
